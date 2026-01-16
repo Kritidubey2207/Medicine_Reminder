@@ -112,7 +112,9 @@ Daily/weekly medicine tracking
 Cloud backup support
 
 📦 Installation & Setup
+
 flutter pub get
+
 flutter run
 
 
